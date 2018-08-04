@@ -1,0 +1,17 @@
+[
+    {
+        "search": "해라$",
+        "replace": "하세요",
+        "type": "regexp"
+    },
+    {
+        "search": "한다$",
+        "replace": "합니다",
+        "type": "regexp"
+    },
+    {
+        "search": "말아라$",
+        "replace": "하세요",
+        "type": "regexp"
+    }
+]
