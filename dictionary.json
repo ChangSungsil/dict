@@ -13,5 +13,10 @@
         "search": "말아라$",
         "replace": "하세요",
         "type": "regexp"
+    },
+    {
+        "search": "거다",
+        "replace": "겁니다",
+        "type: "normal",
     }
 ]
